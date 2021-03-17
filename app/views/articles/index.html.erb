@@ -1,0 +1,13 @@
+<h1>Hello World</h1>
+<hr>
+<h2> This is my First blog built using Ruby</h2>
+<h1>Articles</h1>
+
+<ul>
+  <% @articles.each do |article| %>
+    <li>
+    <%= link_to article.title, article %>
+    </li>
+  <% end %>
+</ul>
+<%= link_to "New Article", new_article_path %>
