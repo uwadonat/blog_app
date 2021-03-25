@@ -25,7 +25,7 @@
 
 This project is about blog where a user can create a post and add comments to it. 
 
-## Screenshot Test
+## Blog Screenshot 
 #
 <p align="center">
   <img height="auto" src="Screenshot.png">
