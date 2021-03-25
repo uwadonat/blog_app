@@ -6,7 +6,7 @@
 * [About the Project](#about-the-project)
 * [Built With](#built-with)
 * [Contributing](#contributing)
-* [Contact](#authors)
+* [Author](#author)
 * [Acknowledgements](#acknowledgements) 
 
 #
@@ -68,7 +68,7 @@ using this blog app you will be able add, view, edit and delete articles.
 5. open the link ```http://127.0.0.1:3000``` in your brouser this will open the blog in your browser then enjoy the blog by adding, viewing, editing or deleting articles.
 
 
-## Authors
+## Author
 
 👤 Donat UWAMAHORO
 
