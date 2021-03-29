@@ -37,7 +37,6 @@ Terminal or similar to execute the program.
 - Clone this repository with git clone ```https://github.com/uwadonat/blog-app2.git``` using your terminal or command line.
 - Change to the project directory by entering: ```cd blog  ``` in the terminal.
 
-#
 
 ## How to use the Blog app
 1. run the command ```bundle install```   This will install the required dependencies
