@@ -6,7 +6,7 @@
 
 This project is about a Blog, which is a regularly updated web page, through which users can add, update, delete an article. Also, users can leave comments on any articles after reading. this project was created for learning purposes and it should be updated.
 
-#
+
 
 ## Built With
 
@@ -14,13 +14,13 @@ This project is about a Blog, which is a regularly updated web page, through whi
 [![forthebadge](https://forthebadge.com/images/badges/made-with-ruby.svg)](https://forthebadge.com) </br>
 ![rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
-#
+
 
 ## Contributing
 
 Contributions make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-#
+
 
 ## Prequisites
 
@@ -28,7 +28,7 @@ Ruby & Rails installed on your local machine.
 bundle installed on your machine
 Terminal or similar to execute the program.
 
-#
+
 
 ## Getting Started
 
@@ -47,7 +47,7 @@ Terminal or similar to execute the program.
 5. open a browser window and navigate to http://localhost:3000
 6. Start navigating the blog and don't forget to leave your comment.
 
-#
+
 
 ## Authors
 
@@ -58,13 +58,13 @@ Terminal or similar to execute the program.
 - twitter:[@uwadonat](https://twitter.com/uwamahoroDonat)
 
 
-#
+
 
 ## Acknowledgements
 
 * [Microverse](https://www.microverse.org/)
 
-#
+
 
 ## 📝 License
 
